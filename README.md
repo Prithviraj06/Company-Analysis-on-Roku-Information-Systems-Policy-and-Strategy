@@ -1,4 +1,5 @@
 # Company-Analysis-on-Roku-Information-Systems-Policy-and-Strategy
+<img src="Roku2.JPG" width = "600">
 
 This project was part of the course 'Information Systems Policy and Strategy'
 
